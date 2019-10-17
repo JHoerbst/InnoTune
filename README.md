@@ -1,5 +1,5 @@
-﻿# InnoTune
-Update Repository for InnoTune
+﻿# InnoTune (This repo is out of date as of 17.10.2019!)
+The new Update Repository for InnoTune can be found [here.](https://github.com/sevelm/InnoTune)
 
 ![InnoTune Logo](/webif/InnoControl/images/cover.png)
 
